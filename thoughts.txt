@@ -1,0 +1,23 @@
+design a website for the Girls in Cyber program with information about upcoming dates,
+previous presentations, photos, and the ability to embed the Google form for sign-ups.
+
+
+Pages needed:
+
+
+
+
+
+
+API funtionality - way for admin to add new events, show off previous presentations/photos
+
+
+
+technical questions -- how is site going to be hosted? self hosted/aws/azure 
+    
+
+
+keep in mind:
+next js api:
+"API Routes do not specify CORS headers, meaning they are same-origin only by default. You can customize such behavior by wrapping the request handler with the CORS request helpers."
+will need to specify CORS headers for ability to embed the google form for sign-ups
