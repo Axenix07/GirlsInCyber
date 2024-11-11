@@ -21,3 +21,6 @@ keep in mind:
 next js api:
 "API Routes do not specify CORS headers, meaning they are same-origin only by default. You can customize such behavior by wrapping the request handler with the CORS request helpers."
 will need to specify CORS headers for ability to embed the google form for sign-ups
+
+
+docker image runs on port 8082, which is could also be used by some random garbage mcaffee software, change this later for sure
